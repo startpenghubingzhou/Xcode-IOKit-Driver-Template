@@ -25,6 +25,10 @@ Tested in Xcode 9.3 and it worked perfectly.
 
 Just download and drag it into `/Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/Project Templates/Mac/Other/ ` to replace `IOKit Driver.xctemplate`, then restart your Xcode app and enjoy it!
 
+## License
+
+This template is using MIT license.
+
 ## Acknowledgement
 
 [@kattrali](https://github.com/kattrali) for [Xcode-Plugin-Template](https://github.com/kattrali/Xcode-Plugin-Template)
